@@ -1,0 +1,11 @@
+D:\KullaniciYonetim\UserManagement.Domain\bin\Debug\net8.0\UserManagement.Domain.deps.json
+D:\KullaniciYonetim\UserManagement.Domain\bin\Debug\net8.0\UserManagement.Domain.dll
+D:\KullaniciYonetim\UserManagement.Domain\bin\Debug\net8.0\UserManagement.Domain.pdb
+D:\KullaniciYonetim\UserManagement.Domain\obj\Debug\net8.0\UserManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\KullaniciYonetim\UserManagement.Domain\obj\Debug\net8.0\UserManagement.Domain.AssemblyInfoInputs.cache
+D:\KullaniciYonetim\UserManagement.Domain\obj\Debug\net8.0\UserManagement.Domain.AssemblyInfo.cs
+D:\KullaniciYonetim\UserManagement.Domain\obj\Debug\net8.0\UserManagement.Domain.csproj.CoreCompileInputs.cache
+D:\KullaniciYonetim\UserManagement.Domain\obj\Debug\net8.0\UserManagement.Domain.dll
+D:\KullaniciYonetim\UserManagement.Domain\obj\Debug\net8.0\refint\UserManagement.Domain.dll
+D:\KullaniciYonetim\UserManagement.Domain\obj\Debug\net8.0\UserManagement.Domain.pdb
+D:\KullaniciYonetim\UserManagement.Domain\obj\Debug\net8.0\ref\UserManagement.Domain.dll

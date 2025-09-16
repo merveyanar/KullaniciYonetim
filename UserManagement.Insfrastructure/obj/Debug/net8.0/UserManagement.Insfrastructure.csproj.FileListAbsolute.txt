@@ -1,0 +1,15 @@
+D:\KullaniciYonetim\UserManagement.Insfrastructure\bin\Debug\net8.0\UserManagement.Insfrastructure.deps.json
+D:\KullaniciYonetim\UserManagement.Insfrastructure\bin\Debug\net8.0\UserManagement.Insfrastructure.dll
+D:\KullaniciYonetim\UserManagement.Insfrastructure\bin\Debug\net8.0\UserManagement.Insfrastructure.pdb
+D:\KullaniciYonetim\UserManagement.Insfrastructure\bin\Debug\net8.0\UserManagement.Domain.dll
+D:\KullaniciYonetim\UserManagement.Insfrastructure\bin\Debug\net8.0\UserManagement.Domain.pdb
+D:\KullaniciYonetim\UserManagement.Insfrastructure\obj\Debug\net8.0\UserManagement.Insfrastructure.csproj.AssemblyReference.cache
+D:\KullaniciYonetim\UserManagement.Insfrastructure\obj\Debug\net8.0\UserManagement.Insfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\KullaniciYonetim\UserManagement.Insfrastructure\obj\Debug\net8.0\UserManagement.Insfrastructure.AssemblyInfoInputs.cache
+D:\KullaniciYonetim\UserManagement.Insfrastructure\obj\Debug\net8.0\UserManagement.Insfrastructure.AssemblyInfo.cs
+D:\KullaniciYonetim\UserManagement.Insfrastructure\obj\Debug\net8.0\UserManagement.Insfrastructure.csproj.CoreCompileInputs.cache
+D:\KullaniciYonetim\UserManagement.Insfrastructure\obj\Debug\net8.0\UserMana.82601536.Up2Date
+D:\KullaniciYonetim\UserManagement.Insfrastructure\obj\Debug\net8.0\UserManagement.Insfrastructure.dll
+D:\KullaniciYonetim\UserManagement.Insfrastructure\obj\Debug\net8.0\refint\UserManagement.Insfrastructure.dll
+D:\KullaniciYonetim\UserManagement.Insfrastructure\obj\Debug\net8.0\UserManagement.Insfrastructure.pdb
+D:\KullaniciYonetim\UserManagement.Insfrastructure\obj\Debug\net8.0\ref\UserManagement.Insfrastructure.dll
