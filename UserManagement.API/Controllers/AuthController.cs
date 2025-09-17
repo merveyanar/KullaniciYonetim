@@ -7,28 +7,26 @@ using Microsoft.AspNetCore.Mvc;
 [Route("api/[controller]")]
 public class AuthController : ControllerBase
 {
-    private readonly IUserService _userService;
+    private readonly IAuthService _authService;
 
-    public AuthController(IUserService userService)
+    public AuthController(IAuthService authService)
     {
-        _userService = userService;
+        _authService = authService;
     }
 
     [HttpPost("register")]
     public async Task<IActionResult> Register(RegisterDto dto)
     {
-        var user = await _userService.RegisterAsync(dto);
+        var user = await _authService.RegisterAsync(dto);
         return Ok(user);
     }
 
     [HttpPost("login")]
     public async Task<IActionResult> Login(LoginDto dto)
     {
-        // var token = await _userService.LoginAsync(dto);
-        // return Ok(new { token });
         try
         {
-            var token = await _userService.LoginAsync(dto);
+            var token = await _authService.LoginAsync(dto);
             return Ok(new { token });
         }
         catch (InvalidCredentialException)
@@ -50,7 +48,7 @@ public async Task<IActionResult> ChangePassword( ChangePasswordDto dto)
         // JWT içinden kullanıcı ID'sini al
         var userId = int.Parse(User.FindFirst(ClaimTypes.NameIdentifier).Value);
 
-        await _userService.ChangePasswordAsync(userId, dto);
+        await _authService.ChangePasswordAsync(userId, dto);
         return Ok(new { message = "Password changed successfully" });
     }
     catch (InvalidCredentialException ex)

@@ -1,7 +1,10 @@
 public interface IUserService
 {
-    Task<User> RegisterAsync(RegisterDto dto);
-    Task<string> LoginAsync(LoginDto dto);
-    Task ChangePasswordAsync(int userId, ChangePasswordDto dto);
+    UserProfileDto GetProfile(int userId);
+    void UpdateProfile(int userId, UserProfileDto dto);
+    List<UserDto> GetUsers(int userId);
+    Task<User?> GetByIdAsync(int id);
+    Task<bool> DeleteUserAsync(int id);
+    Task<bool> UpdateUserAsync(int id, UpdateUserDto dto);
 
 }

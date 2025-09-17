@@ -9,3 +9,4 @@ D:\KullaniciYonetim\UserManagement.Domain\obj\Debug\net8.0\UserManagement.Domain
 D:\KullaniciYonetim\UserManagement.Domain\obj\Debug\net8.0\refint\UserManagement.Domain.dll
 D:\KullaniciYonetim\UserManagement.Domain\obj\Debug\net8.0\UserManagement.Domain.pdb
 D:\KullaniciYonetim\UserManagement.Domain\obj\Debug\net8.0\ref\UserManagement.Domain.dll
+D:\KullaniciYonetim\UserManagement.Domain\obj\Debug\net8.0\UserManagement.Domain.sourcelink.json

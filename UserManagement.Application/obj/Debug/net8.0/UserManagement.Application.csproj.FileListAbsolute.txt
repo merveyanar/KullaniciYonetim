@@ -15,3 +15,4 @@ D:\KullaniciYonetim\UserManagement.Application\obj\Debug\net8.0\UserManagement.A
 D:\KullaniciYonetim\UserManagement.Application\obj\Debug\net8.0\refint\UserManagement.Application.dll
 D:\KullaniciYonetim\UserManagement.Application\obj\Debug\net8.0\UserManagement.Application.pdb
 D:\KullaniciYonetim\UserManagement.Application\obj\Debug\net8.0\ref\UserManagement.Application.dll
+D:\KullaniciYonetim\UserManagement.Application\obj\Debug\net8.0\UserManagement.Application.sourcelink.json

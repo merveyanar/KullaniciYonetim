@@ -9,7 +9,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 
 
-public class AuthService : IUserService
+public class AuthService : IAuthService
 {
     private readonly AppDbContext _context;
     private readonly IConfiguration _configuration;
@@ -69,6 +69,11 @@ public class AuthService : IUserService
         var user = new User
         {
             Username = dto.Username,
+            FirstName="",
+            LastName="",
+            Phone="",
+            Email="",
+            ProfileImageUrl ="",
             PasswordHash = hash,
             PasswordSalt = salt,
         };

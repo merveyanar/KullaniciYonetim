@@ -13,3 +13,6 @@ D:\KullaniciYonetim\UserManagement.Insfrastructure\obj\Debug\net8.0\UserManageme
 D:\KullaniciYonetim\UserManagement.Insfrastructure\obj\Debug\net8.0\refint\UserManagement.Insfrastructure.dll
 D:\KullaniciYonetim\UserManagement.Insfrastructure\obj\Debug\net8.0\UserManagement.Insfrastructure.pdb
 D:\KullaniciYonetim\UserManagement.Insfrastructure\obj\Debug\net8.0\ref\UserManagement.Insfrastructure.dll
+D:\KullaniciYonetim\UserManagement.Insfrastructure\obj\Debug\net8.0\UserManagement.Insfrastructure.sourcelink.json
+D:\KullaniciYonetim\UserManagement.Insfrastructure\bin\Debug\net8.0\UserManagement.Insfrastructure.runtimeconfig.json
+D:\KullaniciYonetim\UserManagement.Insfrastructure\obj\Debug\net8.0\UserManagement.Insfrastructure.genruntimeconfig.cache

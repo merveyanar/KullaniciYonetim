@@ -147,3 +147,4 @@ D:\KullaniciYonetim\UserManagement.API\bin\Debug\net8.0\Microsoft.IdentityModel.
 D:\KullaniciYonetim\UserManagement.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\KullaniciYonetim\UserManagement.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 D:\KullaniciYonetim\UserManagement.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\KullaniciYonetim\UserManagement.API\obj\Debug\net8.0\UserManagement.API.sourcelink.json
